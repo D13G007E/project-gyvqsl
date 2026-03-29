@@ -1,2 +1,3 @@
-# project-gyvqsl
-Generated scaffold
+{
+  "files": {
+    "README.md": "# System Bootstrap Project\n\nThis repository represents the initial state of the ecosystem, designed to be a foundational project awaiting specific goals from a Telegram interface or n8n automation. It provides a default technology stack to kickstart development.\n\n## Stack Overview\n\nThis project is set up with the following core technologies:\n\n-   **Backend**: Python (FastAPI)\n-   **Frontend**: Next.js\n-   **Database**: PostgreSQL\n\n## Getting Started\n\nTo run this project locally using Docker Compose:\n\n1.  **Clone the repository**:\n    bash\n    git clone <your-repo-url>\n
